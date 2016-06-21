@@ -10,7 +10,7 @@ https://github.com/johnngugi/history-of-computers
 **Features** four page website NavBar links :  
 1. Home    
 2. The first computer  
-3. Progression of hardware 
+3. Progression of hardware  
 4. Modern day computers
 
 **Contributors** [John Ngugi](https://github.com/johnngugi)
